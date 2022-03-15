@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">listhero</string>
+    <string name="button1">Create\nList</string>
+    <string name="button2">Read\nList</string>
+    <string name="button3">Update\nList</string>
+    <string name="button4">Delete\nList</string>
+
+</resources>

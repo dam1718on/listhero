@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">listhero</string>
+    <string name="button1">Crear\nLista</string>
+    <string name="button2">Leer\nLista</string>
+    <string name="button3">Actualizar\nLista</string>
+    <string name="button4">Borrar\nLista</string>
+
+</resources>
