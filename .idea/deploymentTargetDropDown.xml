@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\Admyn\.android\avd\Redmi_Note_8T_emulado_API_23.avd" />
+            <value value="C:\Users\Admyn\.android\avd\LG-K350_emulado_API_23.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2022-03-14T12:02:47.157324900Z" />
+    <timeTargetWasSelectedWithDropDown value="2022-03-26T17:35:57.107505700Z" />
   </component>
 </project>

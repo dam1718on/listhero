@@ -15,12 +15,12 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <!-- Theme con sombra para los botones -->
+    <!-- Theme with button shadow -->
     <style name="button">
-        <item name="android:paddingLeft">4px</item>
-        <item name="android:paddingBottom">4px</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
         <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textSize">20dp</item>
+        <item name="android:textSize">20sp</item>
         <item name="android:shadowColor">#000000</item>
         <item name="android:shadowDx">0</item>
         <item name="android:shadowDy">0</item>

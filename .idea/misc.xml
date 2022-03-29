@@ -6,7 +6,11 @@
         <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/drawable/button_background_rounded_orange_gradient.xml" value="0.3828125" />
         <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/layout/activity_login.xml" value="0.18" />
         <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/layout/activity_signin.xml" value="0.25" />
+        <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Admyn/AndroidStudioProject/listhero/app/src/main/res/layout/activity_terms.xml" value="0.1523046092184369" />
       </map>
     </option>
   </component>

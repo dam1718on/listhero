@@ -21,9 +21,9 @@
     <!-- Button theme, with size, shadowText and textStyle -->
     <style name="button">
 
-        <item name="android:layout_width">150sp</item>
-        <item name="android:layout_height">60sp</item>
-        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:layout_width">140sp</item>
+        <item name="android:layout_height">70sp</item>
+        <!-- <item name="android:layout_marginBottom">20dp</item> -->
 
         <item name="android:shadowColor">#000000</item>
         <item name="android:shadowDx">0</item>
