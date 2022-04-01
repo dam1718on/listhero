@@ -20,7 +20,8 @@
         android:maxLength="50"
         android:maxLines="1"
         android:minHeight="48dp"
-        android:textAlignment="center" />
+        android:textAlignment="center"
+        android:textColorHint="@color/gray2" />
 
     <EditText
         android:id="@+id/etPassIn"
@@ -35,7 +36,8 @@
         android:maxLength="20"
         android:maxLines="1"
         android:minHeight="48dp"
-        android:textAlignment="center" />
+        android:textAlignment="center"
+        android:textColorHint="@color/gray2" />
 
     <LinearLayout
         android:layout_width="294dp"
@@ -56,12 +58,12 @@
     </LinearLayout>
 
     <CheckBox
-        android:id="@+id/cbLogged"
+        android:id="@+id/cbRemember"
         android:layout_width="wrap_content"
         android:layout_height="48dp"
         android:layout_gravity="center"
         android:layout_marginTop="15dp"
-        android:text="@string/cbLogged"
+        android:text="@string/cbRemember"
         android:textColor="@color/gray2"
         android:textSize="18sp" />
 

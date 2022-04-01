@@ -1,24 +1,29 @@
 <resources>
-
+    <!-- Sign in -->
     <string name="app_name">listhero</string>
     <string name="etEmailHint">Email</string>
-    <string name="etPassHint">Pass</string>
+    <string name="etPassHint">Password</string>
     <string name="etUserHint">User</string>
     <string name="tvForgotPass">Forgot password?</string>
     <string name="tvTermsLinkable">Terms Agreement</string>
     <string name="tvOfListhero">of listhero</string>
-    <string name="cbLogged">Stay logged in</string>
+    <string name="cbRemember">Remember credentials</string>
+    <string name="cbTerms">I accept the</string>
+    <string name="cbTermsChecked">Must accept Terms Agreement for Sign up</string>
     <string name="btnCreate">Create Account</string>
     <string name="btnSignin">Sign in</string>
     <string name="btnSignup">Sign up</string>
     <string name="btnBackSignin">Back to Sign in</string>
     <string name="btnRead">Read</string>
-    <string name="cbTerms">I accept the</string>
-    <string name="cbTermsChecked">Must accept Terms Agreement for Sign up</string>
     <string name="emailUsed">is already used</string>
     <string name="emailInvalid">Invalid Email</string>
     <string name="minEditText">_Box has not enough characters</string>
     <string name="signupOK">Sign up successful</string>
+    <string name="wrongPass">Wrong password</string>
+    <string name="welcome">Welcome</string>
+    <string name="noUser">Not Signed up</string>
+    <!-- Main -->
+
 
 
     <string name="textView10">Lists:</string>

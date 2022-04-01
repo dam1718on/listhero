@@ -6,6 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
+
         applicationId "com.example.listhero"
         minSdk 23
         targetSdk 31

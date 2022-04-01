@@ -7,19 +7,22 @@
     <string name="tvForgotPass">Ha olvidado su contraseña?</string>
     <string name="tvTermsLinkable">Acuerdo de Condiciones</string>
     <string name="tvOfListhero">de listhero</string>
-    <string name="cbLogged">Mantener sesión iniciada</string>
+    <string name="cbRemember">Recordar credenciales</string>
+    <string name="cbTerms">Acepto el</string>
+    <string name="cbTermsChecked">Must accept Terms Agreement for Sign up</string>
     <string name="btnCreate">Crear Cuenta</string>
     <string name="btnSignin">Iniciar sesión</string>
     <string name="btnSignup">Registrar Cuenta</string>
     <string name="btnBackSignin">Volver a Inicio</string>
     <string name="btnRead">Leído</string>
-    <string name="cbTerms">Acepto el</string>
-    <string name="cbTermsChecked">Must accept Terms Agreement for Sign up</string>
     <string name="emailUsed">ya está en uso</string>
     <string name="emailInvalid">Email no válido</string>
     <string name="minEditText">_Casilla no tiene suficientes carácteres</string>
     <string name="signupOK">Registrado correctamente</string>
-
+    <string name="wrongPass">Contraseña incorrecta</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="noUser">no registrado</string>
+    <!-- Main -->
 
     <string name="textView10">Listas:</string>
     <string name="textView11">Lista Seleccionada:</string>

@@ -1,19 +1,21 @@
 # listhero
 ## Beware of the Dog!!
-<h3>initial branch: master</h3>
-    <ul>
-    <li>initial commit. </li>   
-    <li>Signup working</li>
-    </ul>
-<p>--new branch: *******</p>
-    <ul>    
-    <li>*******</li>
-    </ul>
-
+<h3>initial branch, origin:master</h3>
+<ol>
+<li>initial commit</li>   
+<li>Sign up working</li>
+<li>Create README.md</li>
+<li>Sign in DONE</li>
+</ol>
 <h3>DONE</h3>
-<p>Commit1. *****</p>
-<p>Commit2. *****</p>
+<ol>
+<li>First. Making the project</li>
+<li>Second. Sign up successful now</li>
+<li>Third. From github.com create Readme</li>
+<li>Fourth. Sign in complete</li>
+</ol>
 <h3>UPGRADES</h3>
-    <ul>
-    <li>*****</li>
-    </ul>
+<ul>
+<li>*****</li>
+<li>*****</li>
+</ul>

@@ -63,8 +63,10 @@ public class Signup extends AppCompatActivity {
 
                         signInUp.registerUser();
                         cbTerms.setChecked(false);
-                    }
+                    } else {
 
+                        etEmailUp.setError(etEmailUp.getHint() + " " + getString(R.string.emailUsed));
+                    }
                 } else {
 
                     new EditedToast(getApplicationContext(), getString(R.string.cbTermsChecked));

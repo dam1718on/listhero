@@ -1,18 +1,12 @@
 package com.example.listhero.objects;
 
-public class User {
+import java.io.Serializable;
 
-    private int idUser;
-    private String nameUser, email, passUser;
+public class User implements Serializable {
 
-    public User() {    }
-
-    public User(String nameUser, String email, String passUser) {
-
-        this.nameUser = nameUser;
-        this.email = email;
-        this.passUser = passUser;
-    }
+    private final int idUser;
+    private final String nameUser, email;
+    private String passUser;
 
     public User(int idUser, String nameUser, String email, String passUser) {
 
@@ -22,17 +16,19 @@ public class User {
         this.passUser = passUser;
     }
 
-    public int getIdUser() {  return idUser;  }
+    public User(User user) {
 
-    public void setIdUser(int idUser) {  this.idUser = idUser;  }
+        this.idUser = user.getIdUser();
+        this.nameUser = user.getNameUser();
+        this.email = user.getEmail();
+        this.passUser = user.getPassUser();
+    }
+
+    public int getIdUser() {  return idUser;  }
 
     public String getNameUser() {  return nameUser;  }
 
-    public void setNameUser(String nameUser) {  this.nameUser = nameUser;  }
-
     public String getEmail() {  return email;  }
-
-    public void setEmail(String email) {  this.email = email;  }
 
     public String getPassUser() {  return passUser;  }
 
